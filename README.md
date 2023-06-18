@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shayan-h
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning SQL and Python.
+- 👀 I’m interested in Software Development and ML.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: Email: shayanwork612@gmail.com
 
 <!---
